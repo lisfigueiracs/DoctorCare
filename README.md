@@ -16,7 +16,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="DoctorCare" title="#DoctorCare" src="https://imgur.com/a/z3iA8DG" width="350px" />
+    <img alt="DoctorCare" title="#DoctorCare" src="https://i.imgur.com/nN3IAYv.png" width="350px" />
 </h1>
 
 <h4 align="center"> 
@@ -48,7 +48,7 @@ DoctorCare - O DoctorCare é uma aplicação web, que ajuda as pessoas a agendar
 ### 🎨 Layout Web
 
 <p align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: flex-start; justify-content: center;">
-  <img alt="doctorcare" title="#doctorcare" src="https://imgur.com/a/9dKsR4E" width="700px">
+  <img alt="doctorcare" title="#doctorcare" src="https://i.imgur.com/6OBpkTk.png" width="700px">
 </p>
 
 ## 🛠 Tecnologias
